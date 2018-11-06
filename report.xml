@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: Verifying fastlane version" time="0.012269">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.003671">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: ensure_git_status_clean" time="0.0706">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: increment_build_number" time="2.303586">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: match" time="14.356911">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: gym" time="131.594156">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: crashlytics" time="7.629956">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: get_version_number" time="0.068483">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="8: get_build_number" time="0.404798">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="9: slack" time="0.537101">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
